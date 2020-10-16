@@ -52,6 +52,5 @@ namespace Assign2_SashaSrinivas_n01458354.Controllers
             }
             return "Your total calorie count is" + " " + TotalCalories;
        }
-
     }
 }
