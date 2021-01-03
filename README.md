@@ -1,6 +1,6 @@
 # Assign2_SashaSrinivas_n01458354
 
-Language uased: C#
+Language used: C#
 
 The J1 Controller features a sample Calorie Counter program based on the J1 problem from this source: https://cemc.math.uwaterloo.ca/contests/computing/2006/stage1/juniorEn.pdf
 
