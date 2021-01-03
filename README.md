@@ -1,4 +1,5 @@
-# Assign2_SashaSrinivas_n01458354
+# CalorieCounter-and-RollTheDice
+
 
 Language used: C#
 
